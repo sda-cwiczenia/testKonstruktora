@@ -5,7 +5,7 @@ public class Auto {
     private int  przebieg;
 
     public Auto() {
-        System.out.println("Tworzę obiekt z pustymi polami");
+        System.out.println("Tworzę obiekt z pustymi polami ....");
     }
 
     public Auto(int rocznik, int przebieg) {

@@ -7,6 +7,8 @@ import java.time.LocalTime;
 public class Main {
     public static void main(String[] args) {
 
+
+
         Auto auto1 = new auto.Auto();
         auto1.setPrzebieg(100);
         auto1.ustawPoleRocznik(2010);
